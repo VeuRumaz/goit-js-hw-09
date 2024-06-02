@@ -1,0 +1,14 @@
+h1 {
+    text-transform: uppercase;
+    color: blueviolet;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  color:red;
+  text-decoration: underline;
+}
